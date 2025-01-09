@@ -1,8 +1,8 @@
 {"travellers":[
-{"Firstname":"Kis",
-"Lastname":"Bela",
+{"FirstName":"Kis",
+"LastName":"Bela",
 "id": "2",
-"Favorite country":"Hun"
+"FavoriteCountry":"Hun"
 }
 ]
 }
